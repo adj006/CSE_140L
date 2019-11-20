@@ -1,0 +1,5 @@
+Info: Saving your IP search path in C:\Users\Adrian\.altera.quartus\ip\9.0sp2\ip_search_path\user_components.ipx
+Info: Using factories: CuspFactory, ImportFactory, DSPBuilderFactory, EmbeddedSwTclDriverFactory, DDRLegacyFactory, BeanElementFactory, LegacyFactory, TclModuleFactory, VariationFactory, JarFactory
+Progress: (0) searching C:/altera/90sp2/quartus/Lab1/9.0sp2 (command line switch)
+Info: C:/altera/90sp2/quartus/Lab1/9.0sp2 matched 1 files in 0.03 seconds
+Info: Found 0 components
